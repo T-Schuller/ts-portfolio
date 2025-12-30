@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Focus and approach
 
 This site is a collaborative engineering blog focused on **how race cars actually work**.
 
@@ -45,13 +44,16 @@ Views expressed in individual articles are those of the author(s).
 
 ## Contributors
 
+
+![Tomás Schuller](https://media.licdn.com/dms/image/v2/C5603AQFYlvxKBYNmMw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1588702035951){: width="160" .rounded}
 ### Tomás Schuller  
-*Aerodynamics and vehicle engineering*
+*Aerodynamics and engineering optimization*
 
 Tomás Schuller is a mechanical engineer working in motorsport, with a focus on vehicle
 aerodynamics and system integration. His experience spans aerodynamic surface design,
 CFD analysis, and the definition of race car bodywork from early concepts through
-detailed CAD.
+detailed CAD. He graduated with distinction on his PhD from U.Porto, working on fluid 
+dynamics and geometry optimization.
 
 His work typically focuses on:
 - Aerodynamic architecture and flow control
@@ -64,6 +66,7 @@ within a given regulatory and operational context, rather than treating performa
 figures in isolation.
 
 [LinkedIn](https://www.linkedin.com/in/tomasschuller)
+[My CV](https://T-Schuller.github.io)
 
 ### Full Name  
 *Primary discipline or role*
@@ -82,7 +85,7 @@ They are particularly interested in [specific themes, trade-offs, or questions t
 tend to explore in their work].
 
 
----
+<!-- ---
 
 ## How we work
 
@@ -91,7 +94,7 @@ tend to explore in their work].
 - Assumptions and limitations are stated explicitly  
 - Corrections and technical discussion are encouraged
 
----
+--- -->
 
 ## Contact and contributions
 
