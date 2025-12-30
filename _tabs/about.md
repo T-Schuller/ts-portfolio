@@ -44,8 +44,8 @@ Views expressed in individual articles are those of the author(s).
 
 ## Contributors
 
-
 ![Tomás Schuller](/assets/bio-photos/t_schuller_bio.jpg){: width="160" .rounded}
+
 ### Tomás Schuller  
 *Aerodynamics and engineering optimization*
 
