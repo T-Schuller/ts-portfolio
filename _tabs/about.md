@@ -47,7 +47,7 @@ Views expressed in individual articles are those of the author(s).
 <div style="text-align: left;">
 <img src="/assets/bio-photos/t_schuller_bio.jpg"
      alt="Tomás Schuller"
-     width="160"
+     width="200"
      style="border-radius: 6px; margin-bottom: 0.5rem;" />
 </div>
 ### Tomás Schuller  
