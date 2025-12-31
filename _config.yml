@@ -98,7 +98,8 @@ theme_mode: light
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/bio-photos/t_schuller_bio.jpg
+# avatar: assets/bio-photos/t_schuller_bio.jpg
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -107,17 +108,17 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
-  provider: giscus
-  giscus:
-    repo: composite-interest/composite-interest.github.io
-    repo_id: YOUR_REPO_ID
-    category: General
-    category_id: YOUR_CATEGORY_ID
-    mapping: pathname
-    reactions_enabled: 1
-    input_position: bottom
-    lang: en
+# comments:
+#   provider: giscus
+#   giscus:
+#     repo: composite-interest/composite-interest.github.io
+#     repo_id: YOUR_REPO_ID
+#     category: General
+#     category_id: YOUR_CATEGORY_ID
+#     mapping: pathname
+#     reactions_enabled: 1
+#     input_position: bottom
+#     lang: en
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
